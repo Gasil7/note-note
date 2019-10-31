@@ -1,8 +1,12 @@
 梳理梳理问题
 
 ## 缓存
-+ Redis的数据存储类型
-+ Redis持久化
++ Redis
+    + Redis的数据存储类型
+    + Redis持久化
++ MySQL
++ Memcache
++ PHP
 
 ## HTTP状态码
 + 10x
@@ -18,6 +22,8 @@
 + 分库分表的设计
 + 锁
 + 优化
++ 慢sql
++ explain
 
 ## Composer
 
@@ -36,6 +42,7 @@
 + Facades
 + Contract 
 + 依赖注入
++ Http Kernel 的运作流程
 
 
 
