@@ -6,7 +6,7 @@
 
 ## Kubernetes
 ### [Kubernetes的基本概念和术语](/Kubernetes)
-* [master]()
+* [master](/Kubernetes#master)
 
 -------
 
