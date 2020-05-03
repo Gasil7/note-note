@@ -5,8 +5,8 @@
 -------
 
 ## Kubernetes
-### [Kubernetes的基本概念和术语]("/tree/master/Kubernetes")
-* [master]("/tree/master/Kubernetes#master")
+### [Kubernetes的基本概念和术语](/tree/master/Kubernetes)
+* [master](#master)
 
 -------
 
