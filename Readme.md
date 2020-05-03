@@ -1,7 +1,7 @@
 梳理梳理问题
 
 ## Git
-* [git log][/]
+* [git log][/git#git-log]
 
 -------
 
